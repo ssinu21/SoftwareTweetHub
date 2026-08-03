@@ -1,0 +1,14 @@
+{
+  "name": "softwaretweethub-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "vite"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "vite": "^7.1.2"
+  },
+  "devDependencies": {}
+}
